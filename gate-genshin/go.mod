@@ -40,7 +40,7 @@ require (
 )
 
 // protobuf
-require google.golang.org/protobuf v1.28.0
+require google.golang.org/protobuf v1.33.0
 
 // gin
 require github.com/gin-gonic/gin v1.6.3
